@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, This is Felix Sung <br><br> <img src="https://komarev.com/ghpvc/?username=lazysquirtle&style=for-the-badge"> </h2>
+<h1 align="center">Hi 👋, This is Felix Sung <br><br> <img src="https://komarev.com/ghpvc/?username=lazysquirtle&style=for-the-badge"> </h1>
 <h2 align="center">About me</h2>
 <p> a firmware/software engineer,  
 
@@ -14,7 +14,7 @@
 </p>  
   
 <h2 align="center">My Daily Challenges</h2>
-<p  align="center"><img src="https://leetcode.card.workers.dev/?username=FelixSung" alt="Leetcode Stats Card"></p>
+<p  align="center"><img src="https://leetcode.card.workers.dev/?username=lazysquirtle" alt="Leetcode Stats Card"></p>
 <!--
 **lazysquirtle/lazysquirtle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
