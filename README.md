@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Felix Sung <br><br> <img src="https://komarev.com/ghpvc/?username=weiyun0912&style=for-the-badge"> </h1>
 
 <!--
 **lazysquirtle/lazysquirtle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
