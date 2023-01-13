@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Felix Sung <br><br> <img src="https://komarev.com/ghpvc/?username=lazysquirtle&style=for-the-badge"> </h1>
-
+<h1 align="center">Hi 👋, This is Felix Sung <br><br> <img src="https://komarev.com/ghpvc/?username=lazysquirtle&style=for-the-badge"> </h1>
+<h2 align="center">About me</h2>
+<p> a firmware/software engineer,  
 
 <h2 align="center">🧠 Languages and Tools:</h2>
 <p align="left"> 
