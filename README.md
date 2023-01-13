@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, This is Felix Sung <br><br></h1>
-<div align="center">
+<h1 align="center">About Me<br><br></h1>
+<div>
+Hi, This is Felix aka lazysquirtle. I'm a firmware/software engineer from Taiwan. I'm fascinated by coding, ARM microcontroller dev, operating systems as well as custom firmwares. Most of the projects I developed are available for everyone to use, and some of the them were the homework from the courses I attended in my college. 
+
+Besides programming, I love drawing, playing the guitar and basketball.
+</div>
+  <div align="center">
   <img src="https://komarev.com/ghpvc/?username=lazysquirtle&color=F291A3" alt="profile view counter" />
 </div>
 
