@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, This is Felix Sung <br><br></h1>
 <h2 align="center">About me</h2>
-<p> a firmware/software engineer,  
+<p> a firmware/software engineer </p>
 
 <h2 align="center">Languages and Tools</h2>
 <p align="center"> 
