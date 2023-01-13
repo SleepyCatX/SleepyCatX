@@ -2,7 +2,7 @@
 <h2 align="center">About me</h2>
 <p> a firmware/software engineer,  
 
-<h2 align="center">🧠 Languages and Tools:</h2>
+<h2 align="center">Languages and Tools</h2>
 <p align="left"> 
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="60" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="50"/> 
