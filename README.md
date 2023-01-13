@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, This is Felix Sung <br><br></h1>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=lazysquirtle&color=F291A3" alt="profile view counter" />
+</div>
 <h2 align="center">About me</h2>
 <p> a firmware/software engineer </p>
 
