@@ -18,9 +18,10 @@ Besides programming, I love drawing, playing the guitar and basketball.
   <img src="https://raw.githubusercontent.com/iiiypuk/rpi-icon/master/raspberry-pi-logo_resized_256.png" alt="rpi" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="50" /> 
 </p>  
-  
+<!--  
 <h2 align="center">My Daily Challenges</h2>
 <p  align="center"><img src="https://leetcode.card.workers.dev/?username=FelixSung" alt="Leetcode Stats Card"></p>
+-->
 <!--
 **lazysquirtle/lazysquirtle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
