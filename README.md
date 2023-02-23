@@ -1,6 +1,6 @@
 <h2 align="center">About Me</h2>
 <div>
-Hi, this is Felix aka lazysquirtle, a firmware/software engineer from Taiwan. I'm fascinated by coding, ARM microcontroller development, operating systems as well as custom firmwares. Most of the projects I developed are available for everyone to use, and some of the them are the homework from the courses I attended in my college. 
+Hi, this is Felix aka SleepyCatX, a firmware/software engineer from Taiwan. I'm fascinated by coding, ARM microcontroller development, operating systems as well as custom firmwares. Most of the projects I developed are available for everyone to use, and some of the them are the homework from the courses I attended in my college. 
 
 Besides programming, I love drawing, playing the guitar and basketball.
 </div>
